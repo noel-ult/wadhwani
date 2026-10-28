@@ -1,7 +1,6 @@
 # wadhwani source reference
 
-
-Source reviewed: [`7d80a9e07d30`](https://github.com/noel-ult/wadhwani/commit/7d80a9e07d30c1cd6b0bbc1211c5fb70a00f2048).
+Source reviewed: [`cf0594ba2263`](https://github.com/noel-ult/wadhwani/commit/cf0594ba2263e7a19e5f5475cc56e27d191a0ea5).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -9,7 +8,10 @@ This reference records the checked-in source, scripts, configuration names, and 
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
 - [Wadhwani.txt](../Wadhwani.txt)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
